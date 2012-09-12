@@ -43,8 +43,8 @@
       <excludeFolder url="file://$MODULE_DIR$/target/maven-archiver" />
       <excludeFolder url="file://$MODULE_DIR$/target/surefire-reports" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="project" exported="" />
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="jdk" jdkName="Android 2.1 Platform" jdkType="Android SDK" />
   </component>
 </module>

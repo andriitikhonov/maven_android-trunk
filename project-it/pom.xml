@@ -27,18 +27,21 @@
         <dependency>
             <groupId>com.samples.app</groupId>
             <artifactId>project</artifactId>
+            <scope>provided</scope>
             <type>apk</type>
             <version>5</version>
         </dependency>
         <dependency>
             <groupId>com.samples.app</groupId>
             <artifactId>project</artifactId>
+            <scope>provided</scope>
             <type>jar</type>
             <version>5</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
+
         </dependency>
     </dependencies>
     <build>
